@@ -1,0 +1,11 @@
+.feature-card {
+    transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+}
+
+.feature-icon {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+}
